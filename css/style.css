@@ -41,9 +41,7 @@ a {
     padding: 10px;
     text-align: center; 
     width: 250px;
-}
-.box .img {
-    /* width: 250px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .box img {
     width: 250px;
@@ -52,8 +50,6 @@ a {
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-}
-.box .info {
 }
 .box .info h3 {
     font-size: 19px;
